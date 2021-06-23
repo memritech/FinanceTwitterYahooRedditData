@@ -1,0 +1,8 @@
+yfinance
+tweepy
+praw
+dash
+dash-bootstrap-components
+texthero
+BeautifulSoup4
+gensim==3.8.3
